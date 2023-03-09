@@ -18,7 +18,7 @@ try {
     console.log(`El error de conexion es: ${error}`)
 }
 
-// app.get('/',(req,res)=>{
+// app.get('/',( req,res)=>{
 //     res.send('HOLA MUNDO')
 // })
 
